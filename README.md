@@ -2,8 +2,6 @@
 Pdf flipbook converter with turnjs and pdfjs libraries.
 
 ## Demo
-## ![alt tag](http://shreegurave.com/pdf-flipbook/Mag_04.gif)
-
 [Demo](http://shreegurave.com/pdf-flipbook)
 
 ## Usage
